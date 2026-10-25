@@ -1,0 +1,12 @@
+
+.godot/
+*.translation
+
+.mono/
+bin/
+obj/
+.vs/
+.idea/
+*.csproj.user
+
+.DS_Store
